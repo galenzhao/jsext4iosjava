@@ -1,0 +1,3 @@
+[submodule "jsext/MJExtension"]
+	path = jsext/MJExtension
+	url = ../../CoderMJLee/MJExtension.git
